@@ -1,0 +1,6 @@
+8.8.8.8
+google.com
+yandex.ru
+youtube.com
+realsite.com
+onemore.com
